@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Your Next Home Blog</title>
+    <link>https://yournexthome.co.za</link>
+    <description>Property tips, news, and listings in Nigeria.</description>
+    <item>
+      <title>First Blog Post</title>
+      <link>https://yournexthome.co.za/blog/first-post</link>
+      <description>This is the description of your first blog post.</description>
+      <pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+    <!-- Add more <item> elements here -->
+  </channel>
+</rss>
